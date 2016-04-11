@@ -47,8 +47,8 @@
     "test": "make all && make test"
   },
   "dependencies": {
-    "escodegen": "^1.0",
     "base64-encode": "~1.0.1",
-    "commander": ">=2.2.0"
+    "commander": ">=2.2.0",
+    "escodegen": "^1.8.0"
   }
 }
